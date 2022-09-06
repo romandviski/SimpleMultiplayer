@@ -1,0 +1,1 @@
+"U:\UNREAL_ENGINE\UE_5.0\Engine\Binaries\Win64\UnrealEditor.exe" "U:\UnrealProjects\SteamThirdPerson\SteamThirdPerson.uproject" -game -ResX=800 -ResY=600 -WinX=0 -WinY=20 -log
